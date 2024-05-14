@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zayyni
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on web projects
-I am implementing my git knowledge to develop git repositories
+- 👀 I’m interested in becoming Data Scientist
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on data projects
 
 <!---
 Zayyni/Zayyni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
