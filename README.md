@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Zayyni
-- 👀 I’m interested in becoming Data Scientist
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on data projects
+- 👀 I am Working to make myself better 1%.
 
 <!---
 Zayyni/Zayyni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
